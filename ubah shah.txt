@@ -1,3 +1,0 @@
-alih qr folder to extension - copy terus yg dah edit delete yg lama
-index.php - clear qr
-ui/table.php -qr senarai ptj
